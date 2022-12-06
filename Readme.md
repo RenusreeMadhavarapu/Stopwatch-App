@@ -14,4 +14,4 @@ This is a simple stopwatch app built using HTML, CSS, and JavaScript. The app al
 - JavaScript for the app's functionality and interactivity.
 
 ## Usage
-To use the stopwatch app, simply click the "Start" button to start the stopwatch. Click the "Stop" button to pause the stopwatch, and the "Reset" button to reset it. To save a stopwatch session, click the "Save" button. 
+To use the stopwatch app, simply click the "Start" button to start the stopwatch. Click the "Stop" button to pause the stopwatch, and the "Reset" button to reset it.
